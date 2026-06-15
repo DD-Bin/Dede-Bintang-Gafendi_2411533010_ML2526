@@ -1,0 +1,8 @@
+,Test Accuracy,CV Accuracy
+Voting Classifier,0.9076,0.8638
+Gradient Boosting,0.8859,0.8529
+AdaBoost,0.8804,0.857
+Random Forest,0.875,0.8556
+Logistic Regression,0.8696,0.8475
+Best Tuned Model (RF GridSearch),0.8641,0.8651
+Gradient Boosting + PCA,0.8533,0.8393
